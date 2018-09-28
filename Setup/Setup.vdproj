@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_3091B436E8D249F6A4EA9922EA0D5F1A"
+        "MsmKey" = "8:_1FCDDC1EC7BD483F8F031D76EBF72BEC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -61,6 +61,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -77,6 +85,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -106,9 +122,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3091B436E8D249F6A4EA9922EA0D5F1A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1FCDDC1EC7BD483F8F031D76EBF72BEC"
             {
-            "SourcePath" = "8:..\\..\\29th Day\\logo.ico"
+            "SourcePath" = "8:..\\..\\29th Day\\Prgs Open\\logo.ico"
             "TargetName" = "8:logo.ico"
             "Tag" = "8:"
             "Folder" = "8:_5EF3BFCE016F47B4BAAB217D2985EA98"
@@ -133,11 +149,6 @@
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_EC5663097705D5D1DC75A052D1DA8E98"
-                    {
-                    "Name" = "8:System.Net.Http.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
@@ -345,7 +356,7 @@
             "Target" = "8:_5D686B8B1EDF4A7692D125A26C4DF632"
             "Folder" = "8:_F138760CA3104A7B8FACB638585F25BD"
             "WorkingFolder" = "8:_5EF3BFCE016F47B4BAAB217D2985EA98"
-            "Icon" = "8:_3091B436E8D249F6A4EA9922EA0D5F1A"
+            "Icon" = "8:_1FCDDC1EC7BD483F8F031D76EBF72BEC"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_EEFFDA26299447CB8AB3C54B8DB5CF07"
@@ -359,7 +370,7 @@
             "Target" = "8:_5D686B8B1EDF4A7692D125A26C4DF632"
             "Folder" = "8:_9CD838EBEB7C4BDCA40FBCF019A72A06"
             "WorkingFolder" = "8:_5EF3BFCE016F47B4BAAB217D2985EA98"
-            "Icon" = "8:_3091B436E8D249F6A4EA9922EA0D5F1A"
+            "Icon" = "8:_1FCDDC1EC7BD483F8F031D76EBF72BEC"
             "Feature" = "8:"
             }
         }
