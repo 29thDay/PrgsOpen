@@ -32,6 +32,6 @@ Copyright 2018, 29th Day Develop
 ------------------------------------
 Kontakt/Contact:
 
-E-Mail: 29thday.dev@gmail.com
-GitHub: github.com/29thDay
-Twitter: twitter.com/29thDayDev
+E-Mail: 29thday.dev@gmail.com 
+GitHub: github.com/29thDay 
+Twitter: twitter.com/29thDayDev 
