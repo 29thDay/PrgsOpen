@@ -3,7 +3,7 @@ Um die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup", "Debug", "Setup
 To download the .msi(Installer)-File, click: "Setup", "Debug", "Setup.msi", "View Raw"
 
 -------------
-Dieses Programm ist dafür konzipiert, mehrere Programme gleichzeitig, unkompliziert zu starten.
+Dieses Programm ist dafür konzipiert, mehrere Programme gleichzeitig, unkompliziert zu starten. 
 Von anderen Verwendungsweisen wird abgeraten.
 Für die Funktion "Autostart" werden gewisse Schreibrechte vorausgesetzt.
 Ebenso für die Funktion "Alle Programme auto. starten".
