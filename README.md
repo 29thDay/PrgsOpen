@@ -32,7 +32,7 @@ Copyright 2018, 29th Day Develop
 
 ------------------------------------
 
-Getestet auf: Windows 10, Windows 7
+Getestet auf: Windows 10, Windows 7   
 Testet on: Windows 10, Windows 7
 
 ------------------------------------
