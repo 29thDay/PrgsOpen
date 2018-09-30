@@ -31,6 +31,11 @@ The direct use of the code, or the direct use of parts of the code, or graphics 
 Copyright 2018, 29th Day Develop
 
 ------------------------------------
+
+Getestet auf: Windows 10, Windows 7
+Testet on: Windows 10, Windows 7
+
+------------------------------------
 Kontakt/Contact:
 
 E-Mail: 29thday.dev@gmail.com   
