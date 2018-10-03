@@ -1,6 +1,6 @@
 # PrgsOpen
-Um die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup", "Debug", "Setup.msi", "View Raw"   
-To download the .msi(Installer)-File, click: "Setup", "Debug", "Setup.msi", "View Raw"
+Um nur die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup", "Debug", "Setup.msi", "View Raw"   
+To download the.msi(Installer)-File only , click: "Setup", "Debug", "Setup.msi", "View Raw"
 
 -------------
 Dieses Programm ist dafür konzipiert, mehrere Programme gleichzeitig, unkompliziert zu starten.
