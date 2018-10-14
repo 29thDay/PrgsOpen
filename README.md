@@ -1,4 +1,5 @@
 # PrgsOpen
+Empfohlen/Recommended:
 Um nur die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup", "Debug", "Setup.msi", "View Raw"   
 To download the.msi(Installer)-File only , click: "Setup", "Debug", "Setup.msi", "View Raw"
 
