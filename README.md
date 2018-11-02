@@ -1,7 +1,7 @@
 # PrgsOpen
 Empfohlen/Recommended:   
-Um nur die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup", "Debug", "Setup.msi", "View Raw"   
-To download the.msi(Installer)-File only , click: "Setup", "Debug", "Setup.msi", "View Raw"
+Um nur die .msi(Installer)-Datei herunterzuladen, geh' auf: "Setup.msi", "View Raw"   
+To download the.msi(Installer)-File only , click: "Setup.msi", "View Raw"
 
 -------------
 Dieses Programm ist dafür konzipiert, mehrere Programme gleichzeitig, unkompliziert zu starten.
@@ -15,7 +15,7 @@ Der Verwender dieser Software haftet für mögliche Schäden an dem Endgerät.
 Sollte es wider Erwartungen zu Problemen kommen, kontaktieren Sie mich bitte. Informationen dazu finden Sie im "Kontakt". Haftung bleibt beim Verwender dieser Software.
 Die direkte Verwendung des Codes, bzw die direkte Verwendung von Teilen des Codes, oder Grafiken ist nicht gestattet.
 
-Copyright 2018, 29th Day Develop
+Copyright 2018, 29th Day
 
 ------------------------------------
 This program is designed to start several programs at the same time, uncomplicated.
@@ -29,7 +29,7 @@ The user of this software is liable for possible damage to the terminal.
 Should there be any problems, please contact me. Information can be found in the "Contact". Liability remains at the user of this software.
 The direct use of the code, or the direct use of parts of the code, or graphics  is not permitted.
 
-Copyright 2018, 29th Day Develop
+Copyright 2018, 29th Day
 
 ------------------------------------
 
